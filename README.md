@@ -1,16 +1,10 @@
-# leetcode Problems ✨
-Question | Solution | c++
------------- | ------------- | ------------- 
-1 Two Sum | -----  | 
-2	Add Two Numbers | -----  | 
-3	Longest Substring Without Repeating Characters | -----  | 
-4	Median of Two Sorted Arrays | -----  | 
-5	Longest Palindromic Substring  | -----  | 
-6	ZigZag Conversion | -----  | 
-7	Reverse Integer | -----  | 
+# [LeetCode ✨](https://leetcode.com/problemset/algorithms/)
 
 
+## Algorithms
 
+|  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
+|-----|----------------|---------------|--------|-------------|-------------
 
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_500.java) |  |Easy|
 |499|[The Maze III](https://leetcode.com/problems/the-maze-iii/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_499.java) |  |Hard| BFS
